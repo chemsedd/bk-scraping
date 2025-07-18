@@ -1,0 +1,11 @@
+[project]
+name = "bk-scraping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "scrapy>=2.13.3",
+    "selenium>=4.34.2",
+    "webdriver-manager>=4.0.2",
+]
